@@ -15,7 +15,7 @@ This project explores the **Tumor Microenvironment (TME)** in **ovarian cancer**
 - **Processed Files**:
   - `xcell_deconvoluted_cleaned.csv`
   - `xcell_deconvolution_output.csv`
-  - `TCGA_Merged_RNASeq_TPM_Matrix.csv`
+  - `TCGA_Merged_RNASeq_TPM_Matrix.zip`
   - `final_expression_matrix.csv`
 
 ---
@@ -67,8 +67,7 @@ Ovarian-Cancer-TME-Analysis/
 ├── data/
 │   ├── xcell\_deconvoluted\_cleaned.csv
 │   ├── xcell\_deconvolution\_output.csv
-│   ├── TCGA\_Merged\_RNASeq\_TPM\_Matrix.csv
-│   └── final\_expression\_matrix.csv
+│   ├── TCGA\_Merged\_RNASeq\_TPM\_Matrix.zip
 ├── scripts/
 │   └── (R scripts for each analysis step)
 ├── figures/
