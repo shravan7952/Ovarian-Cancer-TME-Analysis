@@ -86,18 +86,6 @@ Ovarian-Cancer-TME-Analysis/
 
 ---
 
-## 📈 Sample Visuals
-
-| Violin Plot | Top Cells (Mean) | Density Plot |
-|-------------|------------------|---------------|
-| ![](violin_plot.jpg) | ![](top10_cells.png) | ![](density_plot.png) |
-
-| Correlation Heatmap | Clustering | UMAP |
-|---------------------|------------|------|
-| ![](correlation_matrix.jpg) | ![](clustered_heatmap_celltypes.jpg) | ![](UMAP.jpg) |
-
----
-
 ## 📌 Future Enhancements
 
 - Correlate TME subtypes with **clinical outcomes** (e.g., survival, treatment response).
