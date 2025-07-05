@@ -90,11 +90,11 @@ Ovarian-Cancer-TME-Analysis/
 
 | Violin Plot | Top Cells (Mean) | Density Plot |
 |-------------|------------------|---------------|
-| ![](figures/violin_plot.jpg) | ![](figures/top10_cells_mean_score.png) | ![](figures/density_plot.png) |
+| ![](violin_plot.jpg) | ![](top10_cells.png) | ![](density_plot.png) |
 
 | Correlation Heatmap | Clustering | UMAP |
 |---------------------|------------|------|
-| ![](figures/correlation_matrix.jpg) | ![](figures/clustered_heatmap_celltypes.jpg) | ![](figures/UMAP.jpg) |
+| ![](correlation_matrix.jpg) | ![](clustered_heatmap_celltypes.jpg) | ![](UMAP.jpg) |
 
 ---
 
